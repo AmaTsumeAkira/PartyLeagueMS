@@ -169,12 +169,12 @@ WWW/
 │   ├── jjfz.php    # 积极分子
 │   ├── lsdy.php    # 历史党员
 │   ├── menu.php
-│   └── tuiyou.php  # 退休管理
+│   └── tuiyou.php  # 推优管理
 ├── twgl/           # 团务管理模块
 │   ├── index.php
 │   ├── menu.php
 │   ├── shyk.php    # 社会实践
-│   ├── tuiyou.php  # 退休管理
+│   ├── tuiyou.php  # 推优管理
 │   ├── tygl.php    # 团员管理
 │   └── zyzc.php    # 志愿者管理
 ├── tzs/            # 通知书模块
