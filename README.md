@@ -155,7 +155,7 @@ while($row = mysql_fetch_array($result)) {
 ## 项目结构
 
 ```
-WWW/
+PartyLeagueMS/
 ├── admin/           # 管理员模块
 │   ├── class.php
 │   ├── index.php
@@ -189,7 +189,7 @@ WWW/
 ## 技术栈
 
 - 后端：原生PHP（无框架）
-- 前端框架：[Tabler](https://tabler.io/)
+- 前端框架：[Tabler](https://tabler.io/)请将下载下来的UI库直接放进此文件夹跟目录中
 - 数据库：MySQL
 - Web服务器：Apache/Nginx
 
